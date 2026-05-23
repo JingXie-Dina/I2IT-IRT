@@ -1,8 +1,5 @@
-# cGAN-IRT
-The official implementation of paper "Visualising delamination in CFRP: a combination of infrared thermography with image translation technique"
 # I2IT-IRT: Image-to-Image Translation for Infrared Thermography
-
-This repository is the **official implementation** of the following paper:
+This repository is the official implementation of the following paper:
 
 > **Visualising delamination in CFRP: a combination of infrared thermography with image translation technique**  
 > *Jing Xie, Rui Liu, Qing Zhao, Guozhen Li, Changhang Xu*  
